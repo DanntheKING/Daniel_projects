@@ -1,2 +1,0 @@
-# PiProject
-Final Pi Project
